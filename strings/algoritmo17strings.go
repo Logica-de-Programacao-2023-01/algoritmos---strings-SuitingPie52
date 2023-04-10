@@ -4,18 +4,22 @@ import (
 	"bufio"
 	"fmt"
 	"os"
+	"strings"
 )
 
 func main() {
 	scanner := bufio.NewScanner(os.Stdin)
+	count := 0
 
-
-	fmt.Println("NÃO RESOLVIDO.")
 	fmt.Println("Informe uma string.")
 	scanner.Scan()
 	frase := scanner.Text()
 
-	novaFrase :=
+	fmt.Print("Suas letras únicas são: ")
 	for _, ranFrase := range frase {
-		if ranFrase
+		count = strings.Count(frase, string(ranFrase))
+		if count == 1 {
+			fmt.Print(string(ranFrase))
+		}
+	}
 }

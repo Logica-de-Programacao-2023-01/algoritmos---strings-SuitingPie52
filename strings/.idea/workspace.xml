@@ -51,37 +51,21 @@
     "settings.editor.selected.configurable": "com.goide.configuration.GoLibrariesConfigurableProvider"
   }
 }]]></component>
-  <component name="RunManager" selected="Go Build.go build algoritmo18strings.go">
-    <configuration name="go build algoritmo13strings.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="strings" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/algoritmo13strings.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build algoritmo14strings.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="strings" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/algoritmo14strings.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build algoritmo15strings.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="strings" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/algoritmo15strings.go" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build algoritmoBONUSstrings.go">
     <configuration name="go build algoritmo16strings.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="strings" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/algoritmo16strings.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build algoritmo17strings.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="strings" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/algoritmo17strings.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build algoritmo18strings.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -92,13 +76,29 @@
       <filePath value="$PROJECT_DIR$/algoritmo18strings.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build algoritmo20strings.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="strings" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/algoritmo20strings.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build algoritmoBONUSstrings.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="strings" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/algoritmoBONUSstrings.go" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build algoritmoBONUSstrings.go" />
+        <item itemvalue="Go Build.go build algoritmo20strings.go" />
+        <item itemvalue="Go Build.go build algoritmo17strings.go" />
         <item itemvalue="Go Build.go build algoritmo18strings.go" />
         <item itemvalue="Go Build.go build algoritmo16strings.go" />
-        <item itemvalue="Go Build.go build algoritmo15strings.go" />
-        <item itemvalue="Go Build.go build algoritmo14strings.go" />
-        <item itemvalue="Go Build.go build algoritmo13strings.go" />
       </list>
     </recent_temporary>
   </component>
@@ -147,6 +147,11 @@
           <url>file://$PROJECT_DIR$/algoritmo18strings.go</url>
           <line>9</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/algoritmo17strings.go</url>
+          <line>9</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
